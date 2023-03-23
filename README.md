@@ -24,6 +24,4 @@
                                                                       
 <br/>
                                                                                                                                    
-<div align='center'><p> If you liked my profile, you can <b>star⭐</b><a href=https://github.com/rupam-seal/rupam-seal>the repo</a> and if you want to use this template you can <a href=https://github.com/rupam-seal/rupam-seal/fork> <b>fork it</b></a> and use it.</p></div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) (https://dribbble.com/romainbriaux) -->
+<!-- <div align='center'><p> If you liked my profile, you can <b>star⭐</b><a href=https://github.com/rupam-seal/rupam-seal>the repo</a> and if you want to use this template  you can <a href=https://github.com/rupam-seal/rupam-seal/fork> <b>fork it</b></a> and use it.</p></div> -->
