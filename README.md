@@ -4,10 +4,6 @@
 
 <!-- <div align="center"><img src="https://user-images.githubusercontent.com/72932336/227317984-bfa35d0e-a683-4349-9031-7245f03c5b9a.gif" style="width: 700;"/></div> -->
 
-<div align="center"> 
-<img src="https://streak-stats.demolab.com?user=rupam-seal&theme=dark">
-</div>
-
 <!-- <div align="center">
   <h6 style="color:'#5e5e5e'">Since Feb-2023</h4>
   <img src="https://visitcount.itsvg.in/api?id=rupam-seal&icon=8&color=2">
@@ -18,7 +14,11 @@
 
 <img alt="GitHub stats" src="https://github-readme-stats-k4xr.vercel.app/api?username=rupam-seal&show_icons=true&bg_color=80,151515,151515,151515,151515,151515,151515&title_color=FA8B00&text_color=FFF&count_private=true&hide_border=false" style="width: 43%; max-width: 100%; min-width: 100%;">
 </div>
-                                                                      
+
+<div align="center"> 
+<img src="https://streak-stats.demolab.com?user=rupam-seal&theme=dark">
+</div>
+
 <br/>
                                                                                                                                    
 <div align='center'><p> If you liked my profile, you can <b>star⭐</b><a href=https://github.com/rupam-seal/rupam-seal>the repo</a> and if you want to use this template  you can <a href=https://github.com/rupam-seal/rupam-seal/fork> <b>fork it</b></a> and use it.</p></div>
