@@ -2,7 +2,7 @@
 
 <!-- <div align="center"><img src="https://user-images.githubusercontent.com/104382853/217149894-9fc2da0a-aca9-4a67-bc3f-5a2d6f48d40d.gif" style="width: 84%; max-width: 100%; min-width: 100%;"/></div> -->
 
-<div align="center"><img src="https://user-images.githubusercontent.com/72932336/227736119-dc80f0fb-22cd-40c2-9639-52e69d62880d.gif" style="width: 100%; max-width: 100%; min-width: 100%;"/></div>
+<div align="center"><img src="https://user-images.githubusercontent.com/72932336/227736119-dc80f0fb-22cd-40c2-9639-52e69d62880d.gif" style="width: 90%; max-width: 100%; min-width: 100%;"/></div>
 
 <!-- <div align="center"><img src="https://user-images.githubusercontent.com/72932336/227317984-bfa35d0e-a683-4349-9031-7245f03c5b9a.gif" style="width: 700;"/></div> -->
 
